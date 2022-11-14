@@ -29,6 +29,13 @@
             {
               "client_id": "826110754507-5rklqcr88ikh49udvpulp5g3shht96sa.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "826110754507-84d2ig5rkmjl6grdj08bn5c9omc0grr1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.katarzynadrabik.cantwait28"
+              }
             }
           ]
         }
